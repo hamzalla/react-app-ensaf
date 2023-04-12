@@ -1,0 +1,14 @@
+{
+  "countries": [
+    {
+      "id": "1",
+      "name": "Morocco",
+      "capital": "Rabat"
+    },
+    {
+      "id": "2",
+      "name": "Eygpt",
+      "capital": "Cairo"
+    }
+  ]
+}
